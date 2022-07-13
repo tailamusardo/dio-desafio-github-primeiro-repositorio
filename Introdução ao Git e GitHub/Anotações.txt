@@ -1,7 +1,7 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-Resumo dos comandos e o que fazem:
+#Resumo dos comandos e o que fazem:
 
 git init: inicializa um repositório local git
 git status: verifica o estado dos seus arquivos
